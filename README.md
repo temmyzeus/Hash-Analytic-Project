@@ -1,1 +1,1 @@
-# Hash-Analytic-Project
+**My work on the Hash Analytic Internship Project**
